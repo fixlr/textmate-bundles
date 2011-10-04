@@ -40,3 +40,6 @@
 [submodule "UberGlory.tmbundle"]
 	path = UberGlory.tmbundle
 	url = https://github.com/glennr/uber-glory-tmbundle
+[submodule "SCSS.tmbundle"]
+	path = SCSS.tmbundle
+	url = https://github.com/kuroir/SCSS.tmbundle
