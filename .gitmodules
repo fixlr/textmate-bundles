@@ -1,0 +1,42 @@
+[submodule "CoffeeScript.tmbundle"]
+	path = CoffeeScript.tmbundle
+	url = https://github.com/jashkenas/coffee-script-tmbundle
+[submodule "Apache.tmbundle"]
+	path = Apache.tmbundle
+	url = https://github.com/textmate/apache.tmbundle
+[submodule "Cucumber.tmbundle"]
+	path = Cucumber.tmbundle
+	url = https://github.com/cucumber/cucumber-tmbundle
+[submodule "CSS.tmbundle"]
+	path = CSS.tmbundle
+	url = https://github.com/textmate/css.tmbundle
+[submodule "Git.tmbundle"]
+	path = Git.tmbundle
+	url = https://github.com/jcf/git-tmbundle
+[submodule "HTML.tmbundle"]
+	path = HTML.tmbundle
+	url = https://github.com/textmate/html.tmbundle
+[submodule "JavaScript.tmbundle"]
+	path = JavaScript.tmbundle
+	url = https://github.com/textmate/javascript.tmbundle
+[submodule "JavaScript jQuery.tmbundle"]
+	path = JavaScript jQuery.tmbundle
+	url = https://github.com/textmate/javascript-jquery.tmbundle
+[submodule "JSON.tmbundle"]
+	path = JSON.tmbundle
+	url = https://github.com/textmate/json.tmbundle
+[submodule "PHP.tmbundle"]
+	path = PHP.tmbundle
+	url = https://github.com/textmate/php.tmbundle
+[submodule "RSpec.tmbundle"]
+	path = RSpec.tmbundle
+	url = https://github.com/rspec/rspec-tmbundle
+[submodule "Ruby.tmbundle"]
+	path = Ruby.tmbundle
+	url = https://github.com/textmate/ruby.tmbundle
+[submodule "RubyOnRails.tmbundle"]
+	path = RubyOnRails.tmbundle
+	url = https://github.com/drnic/ruby-on-rails-tmbundle
+[submodule "UberGlory.tmbundle"]
+	path = UberGlory.tmbundle
+	url = https://github.com/glennr/uber-glory-tmbundle
