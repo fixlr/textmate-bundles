@@ -16,3 +16,11 @@ git submodule init
 git submodule update
 osascript -e 'tell app "TextMate" to reload bundles'
 ```
+
+## Updating
+
+```shell
+git pull
+git submodule init
+git submodule update
+```
